@@ -1,16 +1,14 @@
-# Desafío Práctico 03 – Control de giro con app móvil (EAI441)
+# Desafío Práctico Final – Control de giro con app móvil (EAI441)
 
 **Facultad de Ingeniería · Escuela de Ingeniería en Computación**
-**Asignatura:** EAI441 · **Semana:** 18 · **Grupo de laboratorio:** _(completar)_
+**Asignatura:** EAI441 · **Semana:** 18 · **Grupo de laboratorio:** 01_
 
 ## Integrantes
 
 | Nombre | Carnet |
 |---|---|
 | Adriana Eunice Flores Hernández | FH190090 |
-| Rjose Ricardo Mendez Zelaya | MZ221613 |
-| _(completar)_ | _(completar)_ |
-| _(completar)_ | _(completar)_ |
+| jose Ricardo Mendez Zelaya | MZ221613 |
 
 ## Descripción
 
