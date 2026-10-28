@@ -1,0 +1,11 @@
+ name = "mi-control-giro-api"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+[[durable_objects.bindings]]
+name = "CONTROL"
+class_name = "ControlState"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["ControlState"]
